@@ -27,5 +27,5 @@ Projeto desenvolvido durante a Semana Omnistack 11.0 da Rocketseat.
 
 1. Para utilizar esta aplicação em sua máquina faça o download (ou clone o repositório e em seguida realize um "pull");
 2. Acesse o seu terminal e navegue até a pasta da aplicação;
-3. Assim, acesse a pasta "backend" e digite o comando `npm run dev` para iniciar o servidor em modo de desenvolvimento;
+3. Assim, acesse a pasta "backend" e digite o comando `npm start` para iniciar o servidor em modo de desenvolvimento;
 4. Em seguida, acesse a pasta "frontend" e digite o comando `npm start` para iniciar a aplicação na porta "localhost" padrão (3000).
